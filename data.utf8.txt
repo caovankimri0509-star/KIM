@@ -1,0 +1,292 @@
+﻿
+
+
+DANH SĂCH 40 NGUá»’N Dá»® LIá»†U MACHINE LEARNING
+
+Tá»•ng há»£p cĂ¡c nguá»“n dá»¯ liá»‡u thá»±c táº¿, cĂ´ng khai, rĂµ rĂ ng vĂ  cĂ³ thá»ƒ táº£i vá» miá»…n phĂ­
+
+1. Kho lÆ°u trá»¯ &amp; Ná»n táº£ng tá»•ng há»£p
+
+STT
+
+TĂªn Nguá»“n Dá»¯ Liá»‡u
+
+ÄÆ°á»ng Link Truy Cáº­p
+
+MĂ´ Táº£ Chi Tiáº¿t
+
+1
+Kaggle Datasets
+https://www.kaggle.com/datasets
+Kho dá»¯ liá»‡u cá»™ng Ä‘á»“ng lá»›n nháº¥t tháº¿ giá»›i, tĂ­ch há»£p mĂ£ nguá»“n notebook vĂ  bĂ i toĂ¡n thá»±c táº¿.
+
+2
+UCI Machine Learning Repository
+https://archive.ics.uci.edu
+Kho lÆ°u trá»¯ kinh Ä‘iá»ƒn phá»¥c vá»¥ nghiĂªn cá»©u vĂ  thá»­ nghiá»‡m cĂ¡c thuáº­t toĂ¡n ML.
+
+3
+Google Dataset Search
+https://datasetsearch.research.google.com
+CĂ´ng cá»¥ tĂ¬m kiáº¿m táº­p dá»¯ liá»‡u cĂ´ng khai trĂªn toĂ n cáº§u cá»§a Google.
+
+4
+Hugging Face Datasets
+https://huggingface.co/datasets
+ThÆ° viá»‡n hĂ ng nghĂ¬n táº­p dá»¯ liá»‡u cĂ³ sáºµn cho NLP, Audio vĂ  Computer Vision.
+
+5
+AWS Open Data Registry
+https://registry.opendata.aws
+Dá»¯ liá»‡u má»Ÿ quy mĂ´ lá»›n (vá»‡ tinh, gen sinh há»c, khĂ­ háº­u) lÆ°u trá»¯ trĂªn Amazon S3.
+
+6
+Data.gov (Má»¹)
+https://data.gov
+Cá»•ng dá»¯ liá»‡u má»Ÿ cá»§a chĂ­nh phá»§ Má»¹ gá»“m nĂ´ng nghiá»‡p, y táº¿, giĂ¡o dá»¥c vĂ  tĂ i chĂ­nh.
+
+7
+Data.gov.vn (Viá»‡t Nam)
+https://data.gov.vn
+Cá»•ng dá»¯ liá»‡u má»Ÿ chĂ­nh thá»©c cá»§a ChĂ­nh phá»§ Viá»‡t Nam vá» kinh táº¿, háº¡ táº§ng, dĂ¢n sá»‘.
+
+8
+Our World in Data
+https://ourworldindata.org
+Dá»¯ liá»‡u chuáº©n hĂ³a toĂ n cáº§u vá» biáº¿n Ä‘á»•i khĂ­ háº­u, y táº¿ cá»™ng Ä‘á»“ng vĂ  phĂ¡t triá»ƒn kinh táº¿.
+
+
+
+2. TĂ i chĂ­nh, Kinh táº¿ &amp; BĂ¡n láº»
+
+STT
+
+TĂªn Nguá»“n Dá»¯ Liá»‡u
+
+ÄÆ°á»ng Link Truy Cáº­p
+
+MĂ´ Táº£ Chi Tiáº¿t
+
+9
+Yahoo Finance
+https://finance.yahoo.com
+Dá»¯ liá»‡u giĂ¡ cá»• phiáº¿u, tiá»n tá»‡, chá»‰ sá»‘ tĂ i chĂ­nh theo thá»i gian thá»±c vĂ  lá»‹ch sá»­.
+
+10
+World Bank Open Data
+https://data.worldbank.org
+Chá»‰ sá»‘ kinh táº¿ vÄ© mĂ´, GDP, dĂ¢n sá»‘ vĂ  thÆ°Æ¡ng máº¡i cá»§a háº§u háº¿t cĂ¡c quá»‘c gia.
+
+11
+IMF Data
+https://data.imf.org
+Dá»¯ liá»‡u tĂ i chĂ­nh, ná»£ cĂ´ng vĂ  cĂ¡n cĂ¢n thanh toĂ¡n quá»‘c táº¿ tá»« Quá»¹ Tiá»n tá»‡ Quá»‘c táº¿.
+
+12
+FRED (St. Louis Fed)
+https://fred.stlouisfed.org
+Dá»¯ liá»‡u kinh táº¿ Má»¹ vĂ  quá»‘c táº¿ bao gá»“m lĂ£i suáº¥t, láº¡m phĂ¡t, chá»‰ sá»‘ tháº¥t nghiá»‡p.
+
+13
+Amazon Customer Reviews
+https://registry.opendata.aws/amazon-reviews
+HĂ ng triá»‡u Ä‘Ă¡nh giĂ¡ sáº£n pháº©m thá»±c táº¿ dĂ¹ng cho phĂ¢n tĂ­ch cáº£m xĂºc (Sentiment Analysis).
+
+14
+Online Retail Dataset (UCI)
+https://archive.ics.uci.edu/dataset/352/online+retail
+Dá»¯ liá»‡u giao dá»‹ch thá»±c táº¿ cá»§a doanh nghiá»‡p bĂ¡n láº» trá»±c tuyáº¿n (phá»¥c vá»¥ RFM &amp; Cohort).
+
+
+
+3. Thá»‹ giĂ¡c mĂ¡y tĂ­nh (Computer Vision)
+
+STT
+
+TĂªn Nguá»“n Dá»¯ Liá»‡u
+
+ÄÆ°á»ng Link Truy Cáº­p
+
+MĂ´ Táº£ Chi Tiáº¿t
+
+15
+ImageNet
+https://www.image-net.org
+Táº­p dá»¯ liá»‡u phĂ¢n loáº¡i hĂ¬nh áº£nh vá»›i hÆ¡n 14 triá»‡u áº£nh thuá»™c 20.000 danh má»¥c.
+
+16
+COCO Dataset
+https://cocodataset.org
+Dá»¯ liá»‡u nháº­n diá»‡n Ä‘á»‘i tÆ°á»£ng, phĂ¢n Ä‘oáº¡n áº£nh (segmentation) vĂ  chĂº thĂ­ch áº£nh.
+
+17
+Fashion-MNIST
+https://github.com/zalandoresearch/fashion-mnist
+Táº­p dá»¯ liá»‡u trang phá»¥c chuáº©n thay tháº¿ cho MNIST Ä‘á»ƒ kiá»ƒm thá»­ thuáº­t toĂ¡n.
+
+18
+Open Images Dataset
+https://storage.googleapis.com/openimages/web/index.html
+Kho 9 triá»‡u áº£nh cĂ´ng khai tá»« Google Ä‘Æ°á»£c gáº¯n nhĂ£n chi tiáº¿t vá»‹ trĂ­ Ä‘á»‘i tÆ°á»£ng.
+
+19
+CelebA Dataset
+https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+HÆ¡n 200.000 áº£nh khuĂ´n máº·t ngÆ°á»i ná»•i tiáº¿ng Ä‘i kĂ¨m 40 thuá»™c tĂ­nh nháº­n diá»‡n.
+
+20
+Cityscapes Dataset
+https://www.cityscapes-dataset.com
+áº¢nh quay Ä‘Æ°á»ng phá»‘ Ä‘á»™ phĂ¢n giáº£i cao phá»¥c vá»¥ phĂ¡t triá»ƒn xe tá»± lĂ¡i.
+
+
+
+4. Xá»­ lĂ½ ngĂ´n ngá»¯ tá»± nhiĂªn (NLP) &amp; Ă‚m thanh
+
+STT
+
+TĂªn Nguá»“n Dá»¯ Liá»‡u
+
+ÄÆ°á»ng Link Truy Cáº­p
+
+MĂ´ Táº£ Chi Tiáº¿t
+
+21
+Wikipedia Dumps
+https://dumps.wikimedia.org
+ToĂ n bá»™ vÄƒn báº£n Wikipedia Ä‘a ngĂ´n ngá»¯ (bao gá»“m báº£n tiáº¿ng Viá»‡t Ä‘Æ°á»£c cáº­p nháº­t liĂªn tá»¥c).
+
+22
+Common Crawl
+https://commoncrawl.org
+Dá»¯ liá»‡u quĂ©t web khá»•ng lá»“, nguá»“n chĂ­nh Ä‘á»ƒ huáº¥n luyá»‡n cĂ¡c mĂ´ hĂ¬nh ngĂ´n ngá»¯ lá»›n (LLM).
+
+23
+SQuAD (Stanford QA)
+https://rajpurkar.github.io/SQuAD-explorer/
+Táº­p dá»¯ liá»‡u há»i Ä‘Ă¡p chuáº©n dĂ nh cho mĂ´ hĂ¬nh Ä‘á»c hiá»ƒu vĂ  tráº£ lá»i cĂ¢u há»i tá»± Ä‘á»™ng.
+
+24
+IMDb Movie Reviews
+https://ai.stanford.edu/~amaas/data/sentiment/
+50.000 Ä‘Ă¡nh giĂ¡ phim gĂ¡n nhĂ£n tĂ­ch cá»±c/tiĂªu cá»±c cho bĂ i toĂ¡n phĂ¢n loáº¡i cáº£m xĂºc.
+
+25
+LibriSpeech
+https://www.openslr.org/12
+1.000 giá» Ä‘á»c sĂ¡ch nĂ³i tiáº¿ng Anh kĂ¨m vÄƒn báº£n phá»¥c vá»¥ nháº­n dáº¡ng giá»ng nĂ³i (ASR).
+
+26
+VLSP Datasets
+https://vlsp.org.vn
+CĂ¡c bá»™ dá»¯ liá»‡u NLP chuáº©n cho tiáº¿ng Viá»‡t (nháº­n diá»‡n thá»±c thá»ƒ NER, phĂ¢n loáº¡i tin tá»©c).
+
+
+
+5. Y táº¿, Sinh há»c &amp; Y khoa
+
+STT
+
+TĂªn Nguá»“n Dá»¯ Liá»‡u
+
+ÄÆ°á»ng Link Truy Cáº­p
+
+MĂ´ Táº£ Chi Tiáº¿t
+
+27
+MIMIC-IV
+https://physionet.org/content/mimiciv/
+Dá»¯ liá»‡u y táº¿ lĂ¢m sĂ ng áº©n danh tá»« hĂ ng nghĂ¬n bá»‡nh nhĂ¢n Ä‘iá»u trá»‹ tĂ­ch cá»±c (ICU).
+
+28
+NIH Chest X-ray
+https://www.kaggle.com/datasets/nih-chest-xrays/data
+112.000+ áº£nh X-quang ngá»±c gĂ¡n nhĂ£n cĂ¡c tĂ¬nh tráº¡ng bá»‡nh lĂ½ phá»•i.
+
+29
+GenBank (NCBI)
+https://www.ncbi.nlm.nih.gov/genbank/
+CÆ¡ sá»Ÿ dá»¯ liá»‡u chuá»—i DNA, RNA sinh há»c cĂ´ng khai toĂ n cáº§u.
+
+30
+PhysioNet
+https://physionet.org
+Kho dá»¯ liá»‡u tĂ­n hiá»‡u Ä‘iá»‡n tim (ECG), Ä‘iá»‡n toĂ n nĂ£o (EEG) vĂ  giĂ¡m sĂ¡t bá»‡nh nhĂ¢n.
+
+
+
+6. Giao thĂ´ng, Äá»‹a lĂ½ &amp; MĂ´i trÆ°á»ng
+
+STT
+
+TĂªn Nguá»“n Dá»¯ Liá»‡u
+
+ÄÆ°á»ng Link Truy Cáº­p
+
+MĂ´ Táº£ Chi Tiáº¿t
+
+31
+NYC Taxi Trip Data
+https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+Dá»¯ liá»‡u chi tiáº¿t hĂ nh trĂ¬nh xe taxi New York (tá»a Ä‘á»™, thá»i gian, cÆ°á»›c phĂ­).
+
+32
+OpenStreetMap
+https://www.openstreetmap.org
+Dá»¯ liá»‡u báº£n Ä‘á»“, tuyáº¿n Ä‘Æ°á»ng vĂ  háº¡ táº§ng Ä‘á»‹a lĂ½ má»Ÿ toĂ n cáº§u.
+
+33
+NOAA Climate Data
+https://www.ncdc.noaa.gov/cdo-web/
+Dá»¯ liá»‡u thá»i tiáº¿t, nhiá»‡t Ä‘á»™, khĂ­ háº­u toĂ n cáº§u tá»« CÆ¡ quan KhĂ­ quyá»ƒn Má»¹.
+
+34
+Global Forest Watch
+https://www.globalforestwatch.org
+Dá»¯ liá»‡u vá»‡ tinh biáº¿n Ä‘á»™ng diá»‡n tĂ­ch rá»«ng vĂ  máº¥t rá»«ng theo thá»i gian.
+
+35
+Uber Movement Data
+https://movement.uber.com
+Dá»¯ liá»‡u thá»i gian di chuyá»ƒn vĂ  máº­t Ä‘á»™ giao thĂ´ng áº©n danh táº¡i cĂ¡c thĂ nh phá»‘ lá»›n.
+
+
+
+7. Máº¡ng xĂ£ há»™i, Giáº£i trĂ­ &amp; Tri thá»©c
+
+STT
+
+TĂªn Nguá»“n Dá»¯ Liá»‡u
+
+ÄÆ°á»ng Link Truy Cáº­p
+
+MĂ´ Táº£ Chi Tiáº¿t
+
+36
+Reddit Public Datasets
+https://www.reddit.com/r/datasets/
+Dá»¯ liá»‡u tháº£o luáº­n, bĂ i viáº¿t vĂ  bĂ¬nh luáº­n cĂ´ng khai trĂªn cĂ¡c subreddit.
+
+37
+Spotify Sequential Skip
+https://www.aicrowd.com/challenges/spotify-sequential-skip-prediction-challenge
+Dá»¯ liá»‡u chuá»—i hĂ nh vi nghe nháº¡c/bá» qua bĂ i hĂ¡t cá»§a ngÆ°á»i dĂ¹ng Spotify.
+
+38
+MovieLens
+https://grouplens.org/datasets/movielens/
+Táº­p dá»¯ liá»‡u tÆ°Æ¡ng tĂ¡c ngÆ°á»i dĂ¹ng - phim chuáº©n cho Há»‡ thá»‘ng gá»£i Ă½ (Recommender System).
+
+39
+GitHub Public Event Data
+https://www.gharchive.org
+Dá»¯ liá»‡u lá»‹ch sá»­ sá»± kiá»‡n, commit, mĂ£ nguá»“n cĂ´ng khai trĂªn GitHub.
+
+40
+Google Trends Data
+https://trends.google.com
+Dá»¯ liá»‡u thá»‘ng kĂª xu hÆ°á»›ng tĂ¬m kiáº¿m theo khu vá»±c Ä‘á»‹a lĂ½ vĂ  thá»i gian.
+
+
+
+

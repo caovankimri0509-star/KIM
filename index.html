@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KIM - Trợ lý An ninh Mạng Cá nhân</title>
+    <meta name="description"
+        content="Nền tảng phát hiện tin nhắn, email rác và lừa đảo trực tuyến với trí tuệ nhân tạo.">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Background Elements -->
+    <div class="bg-shape bg-shape-1"></div>
+    <div class="bg-shape bg-shape-2"></div>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container nav-content">
+            <a href="#home" class="logo" data-link>
+                <i class="fa-solid fa-shield-halved"></i>
+                <span>KIM</span>
+            </a>
+
+            <button class="mobile-menu-btn" aria-label="Toggle Menu">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+
+            <ul class="nav-links">
+                <li><a href="#home" class="active" data-link>Trang Chủ</a></li>
+                <li><a href="#analyzer" data-link>Phân Tích</a></li>
+                <li><a href="#report" data-link>Báo Cáo</a></li>
+                <li><a href="#knowledge" data-link>Cẩm Nang</a></li>
+                <li><a href="#dashboard" data-link>Tài Khoản</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Main Content Container with Pages Wrapper -->
+    <main class="page-wrapper" id="app">
+        <!-- Views will be dynamically injected or toggled here -->
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container footer-content">
+            <div class="footer-brand">
+                <a href="#home" class="logo">
+                    <i class="fa-solid fa-shield-halved"></i>
+                    <span>KIM</span>
+                </a>
+                <p>Bảo vệ bạn khỏi các mối đe dọa lừa đảo, phishing, và tin nhắn rác trực tuyến.</p>
+            </div>
+            <div class="footer-links">
+                <ul>
+                    <li><a href="#privacy" data-link>Chính sách bảo mật</a></li>
+                    <li><a href="#privacy" data-link>Điều khoản sử dụng</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 KIM Project. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Custom JS -->
+    <script src="app.js"></script>
+</body>
+
+</html>

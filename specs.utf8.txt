@@ -1,0 +1,158 @@
+﻿
+
+
+TĂ€I LIá»†U THIáº¾T Káº¾ KIáº¾N TRĂC WEBSITEPHĂT HIá»†N TIN NHáº®N / EMAIL RĂC VĂ€ Lá»ªA Äáº¢O
+
+Spam &amp; Phishing Detection Web Application Specifications
+
+_________________________________________________________________________________
+
+1. Tá»•ng Quan Dá»± Ăn
+
+Dá»± Ă¡n xĂ¢y dá»±ng ná»n táº£ng Web trá»£ lĂ½ an ninh máº¡ng cĂ¡ nhĂ¢n, giĂºp ngÆ°á»i dĂ¹ng phá»• thĂ´ng nhanh chĂ³ng nháº­n biáº¿t, phĂ¢n tĂ­ch vĂ  phĂ²ng trĂ¡nh cĂ¡c nguy cÆ¡ lá»«a Ä‘áº£o trá»±c tuyáº¿n qua tin nháº¯n (SMS, Zalo, Messenger) vĂ  Email.
+
+1.1. Má»¥c tiĂªu há»‡ thá»‘ng
+
+
+â€¢ Tá»± Ä‘á»™ng hĂ³a kiá»ƒm tra: Cung cáº¥p cĂ´ng cá»¥ phĂ¢n tĂ­ch vÄƒn báº£n/URL/File Ä‘á»ƒ phĂ¡t hiá»‡n cĂ¡c dáº¥u hiá»‡u lá»«a Ä‘áº£o tá»± Ä‘á»™ng.
+
+
+â€¢ Cáº£nh bĂ¡o cá»™ng Ä‘á»“ng: Táº¡o cá»™ng Ä‘á»“ng Ä‘Ă³ng gĂ³p dá»¯ liá»‡u xáº¥u (blacklists) Ä‘á»ƒ liĂªn tá»¥c cáº­p nháº­t danh sĂ¡ch lá»«a Ä‘áº£o má»›i.
+
+
+â€¢ NĂ¢ng cao nháº­n thá»©c: Trang bá»‹ kiáº¿n thá»©c phĂ²ng chá»‘ng lá»«a Ä‘áº£o trá»±c tuyáº¿n thĂ´ng qua cĂ¡c bĂ i viáº¿t vĂ  tĂ¬nh huá»‘ng thá»±c táº¿.
+
+1.2. PhĂ¢n loáº¡i quy mĂ´ dá»± Ă¡n
+
+TĂ¹y theo pháº¡m vi phĂ¡t triá»ƒn (Äá»“ Ă¡n mĂ´n há»c / MVP thá»­ nghiá»‡m hoáº·c Sáº£n pháº©m hoĂ n chá»‰nh), sá»‘ lÆ°á»£ng trang web vĂ  tĂ­nh nÄƒng Ä‘Æ°á»£c thiáº¿t káº¿ linh hoáº¡t:
+
+Cáº¥p Ä‘á»™ quy mĂ´
+
+Sá»‘ lÆ°á»£ng trang
+
+CĂ¡c trang bao gá»“m
+Má»©c MVP / Äá»“ Ă¡n mĂ´n há»c
+3 Trang
+1. Trang chá»§ &amp; QuĂ©t nhanh2. Trang Cáº©m nang &amp; BĂ¡o cĂ¡o3. Trang Äiá»u khoáº£n &amp; Báº£o máº­t
+Má»©c Tá»‘t nghiá»‡p / Thá»±c táº¿
+5 - 6 Trang
+1. Trang chá»§ (Landing Page)2. Trang PhĂ¢n tĂ­ch chi tiáº¿t (Analyzer)3. Trang BĂ¡o cĂ¡o lá»«a Ä‘áº£o (Scam Report)4. Trang Cáº©m nang cáº£nh bĂ¡o (Knowledge Base)5. Trang Lá»‹ch sá»­ &amp; TĂ i khoáº£n (Dashboard)6. Trang ChĂ­nh sĂ¡ch báº£o máº­t (Privacy Policy)
+
+
+
+2. Chi Tiáº¿t Thiáº¿t Káº¿ &amp; Chá»©c NÄƒng Tá»«ng Trang
+
+2.1. Trang Chá»§ (Home / Landing Page)
+
+ÄĂ³ng vai trĂ² giá»›i thiá»‡u tá»•ng quan, táº¡o niá»m tin cho ngÆ°á»i dĂ¹ng vĂ  cung cáº¥p cĂ´ng cá»¥ quĂ©t nhanh ngay láº­p tá»©c.
+
+
+â€¢ Khá»‘i Hero (Hero Section): Thanh tĂ¬m kiáº¿m/quĂ©t nhanh (Quick Check) cho phĂ©p dĂ¡n ngay Ä‘oáº¡n vÄƒn báº£n hoáº·c Ä‘Æ°á»ng link suspicious.
+
+
+â€¢ Khá»‘i Thá»‘ng kĂª (Live Stats): Tá»•ng sá»‘ tin nháº¯n/email Ä‘Ă£ phĂ¢n tĂ­ch, sá»‘ vá»¥ lá»«a Ä‘áº£o Ä‘Æ°á»£c phĂ¡t hiá»‡n, sá»‘ ngÆ°á»i dĂ¹ng Ä‘Ă£ báº£o vá»‡.
+
+
+â€¢ Cáº£nh bĂ¡o ná»•i báº­t (Latest Scams): Hiá»ƒn thá»‹ tin tá»©c/cáº£nh bĂ¡o lá»«a Ä‘áº£o nĂ³ng trong tuáº§n (giáº£ danh ngĂ¢n hĂ ng, tuyá»ƒn CTV, mĂ£ Ä‘á»™c, v.v.).
+
+
+â€¢ HÆ°á»›ng dáº«n nhanh (How it works): Giá»›i thiá»‡u quy trĂ¬nh 3 bÆ°á»›c Ä‘Æ¡n giáº£n: DĂ¡n ná»™i dung -&gt; PhĂ¢n tĂ­ch Machine Learning -&gt; Nháº­n káº¿t quáº£ báº£o vá»‡.
+
+2.2. Trang PhĂ¢n TĂ­ch &amp; Kiá»ƒm Tra (Spam/Phishing Analyzer Page)
+
+Trá»ng tĂ¢m ká»¹ thuáº­t cá»§a á»©ng dá»¥ng, nÆ¡i ngÆ°á»i dĂ¹ng thá»±c hiá»‡n kiá»ƒm tra chuyĂªn sĂ¢u.
+
+
+â€¢ Ă” nháº­p dá»¯ liá»‡u Ä‘a dáº¡ng (Multi-input): Nháº­p vÄƒn báº£n (SMS/Email/Chat), dĂ¡n URL website nghi ngá», hoáº·c táº£i lĂªn tá»‡p áº£nh chá»¥p mĂ n hĂ¬nh tin nháº¯n.
+
+
+â€¢ Äiá»ƒm sá»‘ Rá»§i ro (Risk Score Bar): Thang Ä‘o tá»« 0 - 100% biá»ƒu thá»‹ cĂ¡c má»©c Ä‘á»™ An toĂ n (Xanh) - Nghi váº¥n (VĂ ng) - Nguy hiá»ƒm (Äá»).
+
+
+â€¢ Danh sĂ¡ch Dáº¥u hiá»‡u Báº¥t thÆ°á»ng: Bao gá»“m: Link rĂºt gá»n/link áº©n danh, tá»« khĂ³a giá»¥c giĂ£/Ä‘e dá»a (vĂ­ dá»¥: 'tĂ i khoáº£n bá»‹ khĂ³a', 'trĂºng thÆ°á»Ÿng'), giáº£ máº¡o tĂªn miá»n thÆ°Æ¡ng hiá»‡u lá»›n.
+
+
+â€¢ Khuyáº¿n nghá»‹ hĂ nh Ä‘á»™ng (Actionable Advice): Chá»‰ dáº«n cá»¥ thá»ƒ cho ngÆ°á»i dĂ¹ng (vĂ­ dá»¥: 'KhĂ´ng báº¥m vĂ o liĂªn káº¿t', 'KhĂ´ng cung cáº¥p mĂ£ OTP', 'KhĂ³a tháº» ngĂ¢n hĂ ng ngay láº­p tá»©c').
+
+2.3. Trang BĂ¡o CĂ¡o Lá»«a Äáº£o (Scam Reporting Page)
+
+TĂ­nh nÄƒng cá»™ng Ä‘á»“ng giĂºp thu tháº­p dá»¯ liá»‡u vá» cĂ¡c hĂ¬nh thá»©c lá»«a Ä‘áº£o má»›i phĂ¡t sinh.
+
+
+â€¢ Form bĂ¡o cĂ¡o chi tiáº¿t: Sá»‘ Ä‘iá»‡n thoáº¡i/Email ngÆ°á»i gá»­i, Ná»™i dung tin nháº¯n rĂ¡c, ÄÆ°á»ng link lá»«a Ä‘áº£o, HĂ¬nh áº£nh báº±ng chá»©ng.
+
+
+â€¢ ThĂ´ng tin bá»• sung: MĂ£ giao dá»‹ch chuyá»ƒn tiá»n, tĂªn ngĂ¢n hĂ ng lá»«a Ä‘áº£o (náº¿u ngÆ°á»i dĂ¹ng Ä‘Ă£ lá»¡ bá»‹ lá»«a).
+
+
+â€¢ Quy trĂ¬nh duyá»‡t (Moderation): Dá»¯ liá»‡u bĂ¡o cĂ¡o sáº½ tráº£i qua bÆ°á»›c duyá»‡t tá»± Ä‘á»™ng (hoáº·c Admin duyá»‡t) trÆ°á»›c khi cáº­p nháº­t vĂ o cÆ¡ sá»Ÿ dá»¯ liá»‡u chung.
+
+2.4. Trang Cáº©m Nang &amp; Cáº£nh BĂ¡o (Knowledge Base / Anti-Scam Blog)
+
+NÆ¡i giĂ¡o dá»¥c ngÆ°á»i dĂ¹ng vĂ  tÄƒng lÆ°u lÆ°á»£ng truy cáº­p tĂ¬m kiáº¿m (SEO) cho website.
+
+
+â€¢ BĂ i viáº¿t chuyĂªn sĂ¢u: CĂ¡c bĂ i viáº¿t phĂ¢n tĂ­ch chi tiáº¿t tá»«ng ká»‹ch báº£n lá»«a Ä‘áº£o (Deepfake cuá»™c gá»i video, giáº£ danh cĂ´ng an, nháº­n quĂ  tá»« nÆ°á»›c ngoĂ i).
+
+
+â€¢ HÆ°á»›ng dáº«n kháº©n cáº¥p: Quy trĂ¬nh chuáº©n giĂºp ngÆ°á»i dĂ¹ng xá»­ lĂ½ khá»§ng hoáº£ng khi Ä‘Ă£ lá»¡ báº¥m link Ä‘á»™c hoáº·c bá»‹ máº¥t tiá»n.
+
+
+â€¢ Quiz tÆ°Æ¡ng tĂ¡c: Bá»™ cĂ´ng cá»¥ tráº¯c nghiá»‡m ngáº¯n giĂºp ngÆ°á»i dĂ¹ng tá»± kiá»ƒm tra kháº£ nÄƒng nháº­n biáº¿t tin nháº¯n lá»«a Ä‘áº£o.
+
+2.5. Trang Quáº£n LĂ½ TĂ i Khoáº£n &amp; Lá»‹ch Sá»­ (User Dashboard)
+
+Trang cĂ¡ nhĂ¢n dĂ nh cho ngÆ°á»i dĂ¹ng Ä‘Ă£ Ä‘Äƒng kĂ½ tĂ i khoáº£n.
+
+
+â€¢ Lá»‹ch sá»­ kiá»ƒm tra (Scan History): Xem láº¡i cĂ¡c ná»™i dung/Ä‘oáº¡n vÄƒn báº£n/URL Ä‘Ă£ quĂ©t trÆ°á»›c Ä‘Ă¢y cĂ¹ng káº¿t quáº£ Ä‘Ă¡nh giĂ¡.
+
+
+â€¢ CĂ i Ä‘áº·t cáº£nh bĂ¡o (Notification Alert): Báº­t/táº¯t tĂ­nh nÄƒng nháº­n thĂ´ng bĂ¡o qua Email hoáº·c Telegram khi há»‡ thá»‘ng phĂ¡t hiá»‡n Ä‘á»£t lá»«a Ä‘áº£o má»›i bĂ¹ng phĂ¡t.
+
+
+â€¢ ÄĂ³ng gĂ³p cá»§a tĂ´i (My Reports): Danh sĂ¡ch cĂ¡c bĂ¡o cĂ¡o lá»«a Ä‘áº£o do chĂ­nh ngÆ°á»i dĂ¹ng gá»­i lĂªn vĂ  tráº¡ng thĂ¡i phĂª duyá»‡t.
+
+2.6. Trang Äiá»u Khoáº£n &amp; ChĂ­nh SĂ¡ch Báº£o Máº­t (Privacy &amp; Terms)
+
+Trang báº¯t buá»™c Ä‘á»‘i vá»›i má»i website xá»­ lĂ½ dá»¯ liá»‡u tin nháº¯n/email riĂªng tÆ°.
+
+
+â€¢ Cam káº¿t báº£o máº­t dá»¯ liá»‡u: Cam káº¿t tuyá»‡t Ä‘á»‘i KHĂ”NG lÆ°u trá»¯ tin nháº¯n cĂ¡ nhĂ¢n, khĂ´ng chia sáº» dá»¯ liá»‡u nháº¡y cáº£m cho bĂªn thá»© ba.
+
+
+â€¢ Äiá»u khoáº£n sá»­ dá»¥ng: TuyĂªn bá»‘ miá»…n trá»« trĂ¡ch nhiá»‡m vá» káº¿t quáº£ dá»± Ä‘oĂ¡n (káº¿t quáº£ mang tĂ­nh cháº¥t tham kháº£o dá»±a trĂªn thuáº­t toĂ¡n AI/Machine Learning).
+
+3. YĂªu Cáº§u Ká»¹ Thuáº­t &amp; TĂ­ch Há»£p Há»‡ Thá»‘ng
+
+3.1. Kiáº¿n trĂºc phĂ¢n tĂ­ch (Backend Core)
+
+
+â€¢ Khá»‘i NLP / Machine Learning: Káº¿t há»£p thuáº­t toĂ¡n PhĂ¢n loáº¡i vÄƒn báº£n (Naive Bayes, SVM, BERT hoáº·c Transformer) Ä‘á»ƒ cháº¥m Ä‘iá»ƒm rá»§i ro dá»±a trĂªn tá»« khĂ³a vĂ  cáº¥u trĂºc ngá»¯ phĂ¡p.
+
+
+â€¢ TĂ­ch há»£p API kiá»ƒm tra URL: Sá»­ dá»¥ng Google Safe Browsing API, VirusTotal API, hoáº·c Chá»‘ng Lá»«a Äáº£o API Ä‘á»ƒ tra cá»©u Ä‘á»™ uy tĂ­n cá»§a tĂªn miá»n.
+
+
+â€¢ Khá»‘i Blacklist Matching: Truy váº¥n cÆ¡ sá»Ÿ dá»¯ liá»‡u ná»™i bá»™ chá»©a danh sĂ¡ch Ä‘en cĂ¡c sá»‘ Ä‘iá»‡n thoáº¡i, tĂ i khoáº£n ngĂ¢n hĂ ng vĂ  domain Ä‘Ă£ bá»‹ bĂ¡o cĂ¡o.
+
+3.2. YĂªu cáº§u giao diá»‡n (UI/UX)
+
+
+â€¢ Phong cĂ¡ch thiáº¿t káº¿: Giao diá»‡n sáº¡ch sáº½, trá»±c quan, sá»­ dá»¥ng mĂ u sáº¯c cáº£nh bĂ¡o chuáº©n má»±c (Xanh lĂ¡ - An toĂ n, VĂ ng - ChĂº Ă½, Äá» - Nguy hiá»ƒm).
+
+
+â€¢ ÄĂ¡p á»©ng Di Ä‘á»™ng (Responsive): Tá»‘i Æ°u tráº£i nghiá»‡m hoĂ n háº£o trĂªn Ä‘iá»‡n thoáº¡i di Ä‘á»™ng vĂ¬ pháº§n lá»›n tin nháº¯n lá»«a Ä‘áº£o Ä‘Æ°á»£c ngÆ°á»i dĂ¹ng nháº­n trĂªn Smartphone.
+
+4. Lá»™ TrĂ¬nh Triá»ƒn Khai Äá» Xuáº¥t
+
+
+â€¢ Giai Ä‘oáº¡n 1 (Tuáº§n 1 - Tuáº§n 3) - MVP: XĂ¢y dá»±ng Trang chá»§ + Ă” QuĂ©t nhanh, Trang BĂ¡o cĂ¡o Ä‘Æ¡n giáº£n vĂ  Trang Báº£o máº­t. Táº­p trung hoĂ n thiá»‡n mĂ´ hĂ¬nh AI/Machine Learning kiá»ƒm tra tin nháº¯n.
+
+
+â€¢ Giai Ä‘oáº¡n 2 (Tuáº§n 4 - Tuáº§n 6) - Má»Ÿ rá»™ng: PhĂ¡t triá»ƒn Trang Analyzer riĂªng biá»‡t vá»›i giao diá»‡n chi tiáº¿t, xĂ¢y dá»±ng Trang Cáº©m nang Blog vĂ  káº¿t ná»‘i API tra cá»©u URL.
+
+
+â€¢ Giai Ä‘oáº¡n 3 (Tuáº§n 7 - Tuáº§n 8) - HoĂ n thiá»‡n: ThĂªm tĂ­nh nÄƒng ÄÄƒng nháº­p, User Dashboard, LÆ°u lá»‹ch sá»­, Há»‡ thá»‘ng thĂ´ng bĂ¡o tá»± Ä‘á»™ng vĂ  Tá»‘i Æ°u hĂ³a UI/UX.
+
+
