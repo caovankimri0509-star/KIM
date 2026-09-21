@@ -1,1 +1,1 @@
-kim-one-mu.vercel.app
+https://kim-one-mu.vercel.app
