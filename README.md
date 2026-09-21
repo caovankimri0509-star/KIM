@@ -1,1 +1,1 @@
-file:///D:/PPNC/index.html
+kim-one-mu.vercel.app
